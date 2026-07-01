@@ -1,0 +1,4 @@
+node_modules
+pruebas-funcionales/cypress.config.js
+pruebas-funcionales/package-lock.json
+pruebas-funcionales/package.json
